@@ -42,8 +42,8 @@ struct OpenPageView: View {
                         }
                     }
                     .buttonStyle(ThreeDButton())
-                    .font(.custom("Digitalt",size: 30))
-                    .frame(width: 100, height: 30)
+                    .font(.custom("Digitalt",size: 60))
+                    .frame(width: 200, height: 60)
                     .foregroundColor(.white)
                     
                 }
